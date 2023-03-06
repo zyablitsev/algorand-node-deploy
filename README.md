@@ -11,7 +11,7 @@ Script for automating deployment of your own [Algorand MainNet non-archive Node]
 Open terminal and run:
 ```bash
 ~$ apt-get install -y ca-certificates curl
-~$ bash <(curl -s "bash <(curl -s "https://raw.githubusercontent.com/zyablitsev/algorand-node-deploy/main/install.sh")")
+~$ bash <(curl -s "https://raw.githubusercontent.com/zyablitsev/algorand-node-deploy/main/install.sh")
 ```
 
 Check your node status:
